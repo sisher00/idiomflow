@@ -1,0 +1,686 @@
+[
+  {
+    "idiom": "Break the ice",
+    "meaning": "To initiate conversation in a social setting",
+    "example": "She told a joke to break the ice at the meeting.",
+    "related_idiom": "Start the ball rolling",
+    "difficulty_level": "Easy",
+    "category": "Popular",
+    "origin": "From old sailing ships breaking ice to create a path"
+  },
+  {
+    "idiom": "Bite the bullet",
+    "meaning": "To endure a painful situation with courage",
+    "example": "He had to bite the bullet and admit his mistake.",
+    "related_idiom": "Face the music",
+    "difficulty_level": "Medium",
+    "category": "Popular",
+    "origin": "From battlefield surgery without anesthesia (biting a bullet to endure pain)."
+  },
+  {
+    "idiom": "Hit the sack",
+    "meaning": "To go to bed or sleep",
+    "example": "I'm really tired, I'm going to hit the sack.",
+    "related_idiom": "Catch some Z's",
+    "difficulty_level": "Easy",
+    "category": "Popular",
+    "origin": "Refers to sleeping on a sack filled with hay in olden times."
+  },
+  {
+    "idiom": "Let the cat out of the bag",
+    "meaning": "To reveal a secret accidentally",
+    "example": "He let the cat out of the bag about her surprise party.",
+    "related_idiom": "Spill the beans",
+    "difficulty_level": "Medium",
+    "category": "Popular",
+    "origin": "From medieval markets—dishonest sellers would replace a pig with a cat in a bag."
+  },
+  {
+    "idiom": "Once in a blue moon",
+    "meaning": "Something that happens very rarely",
+    "example": "I eat fast food only once in a blue moon.",
+    "related_idiom": "Few and far between",
+    "difficulty_level": "Easy",
+    "category": "Popular",
+    "origin": "Refers to rare second full moons in a calendar month."
+  },
+  {
+    "idiom": "Under the weather",
+    "meaning": "Feeling sick or unwell",
+    "example": "I'm not coming today, I feel under the weather.",
+    "related_idiom": "Off-color",
+    "difficulty_level": "Easy",
+    "category": "Popular",
+    "origin": "Originates from sailors feeling ill during storms."
+  },
+  {
+    "idiom": "The ball is in your court",
+    "meaning": "It's your decision now",
+    "example": "I've done my part, now the ball is in your court.",
+    "related_idiom": "Your move",
+    "difficulty_level": "Easy",
+    "category": "Popular",
+    "origin": "From tennis — it's your turn to respond."
+  },
+  {
+    "idiom": "On the same page",
+    "meaning": "In agreement or understanding",
+    "example": "We're finally on the same page about the project.",
+    "related_idiom": "See eye to eye",
+    "difficulty_level": "Easy",
+    "category": "Popular",
+    "origin": "Refers to reading the same part of a script or book."
+  },
+  {
+    "idiom": "Kill two birds with one stone",
+    "meaning": "To solve two problems at once",
+    "example": "I killed two birds with one stone by shopping while waiting for him.",
+    "related_idiom": "Double benefit",
+    "difficulty_level": "Medium",
+    "category": "Popular",
+    "origin": "From an old proverb about efficiency."
+  },
+  {
+    "idiom": "Cry over spilled milk",
+    "meaning": "Worrying about something that cannot be changed",
+    "example": "There's no use crying over spilled milk.",
+    "related_idiom": "What's done is done",
+    "difficulty_level": "Easy",
+    "category": "Popular",
+    "origin": "From old European proverbs, warning not to be upset over small losses."
+  },
+  {
+    "idiom": "A blessing in disguise",
+    "meaning": "Something that seems bad but turns out good",
+    "example": "Losing that job was a blessing in disguise.",
+    "related_idiom": "Silver lining",
+    "difficulty_level": "Easy",
+    "category": "Popular",
+    "origin": "From 18th-century proverbs."
+  },
+  {
+    "idiom": "The last straw",
+    "meaning": "The final problem in a series of issues",
+    "example": "Her rude comment was the last straw.",
+    "related_idiom": "The breaking point",
+    "difficulty_level": "Medium",
+    "category": "Popular",
+    "origin": "Old idiom from camel-loading tales."
+  },
+  {
+    "idiom": "Cost an arm and a leg",
+    "meaning": "Very expensive",
+    "example": "That car cost me an arm and a leg!",
+    "related_idiom": "Break the bank",
+    "difficulty_level": "Easy",
+    "category": "Popular",
+    "origin": "Possibly WWII origin (soldiers' injuries)."
+  },
+  {
+    "idiom": "Hit the nail on the head",
+    "meaning": "Describe something accurately or do something exactly right",
+    "example": "You hit the nail on the head with your analysis.",
+    "related_idiom": "Spot on",
+    "difficulty_level": "Easy",
+    "category": "Popular",
+    "origin": "Carpentry-related phrase."
+  },
+  {
+    "idiom": "Burn the midnight oil",
+    "meaning": "Work late into the night",
+    "example": "She burned the midnight oil to finish the report.",
+    "related_idiom": "Pull an all-nighter",
+    "difficulty_level": "Medium",
+    "category": "Popular",
+    "origin": "From oil lamps used before electricity."
+  },
+  {
+    "idiom": "Jump on the bandwagon",
+    "meaning": "Join a popular trend or activity",
+    "example": "Everyone's jumping on the fitness bandwagon.",
+    "related_idiom": "Follow the crowd",
+    "difficulty_level": "Medium",
+    "category": "Popular",
+    "origin": "Originated in U.S. political rallies."
+  },
+  {
+    "idiom": "Throw in the towel",
+    "meaning": "Give up or quit",
+    "example": "He threw in the towel after trying for years.",
+    "related_idiom": "Give up the ghost",
+    "difficulty_level": "Easy",
+    "category": "Popular",
+    "origin": "From boxing (literally throwing towel to quit)."
+  },
+  {
+    "idiom": "Sit on the fence",
+    "meaning": "Avoid taking sides in a dispute",
+    "example": "She sat on the fence during the debate.",
+    "related_idiom": "Be indecisive",
+    "difficulty_level": "Medium",
+    "category": "Popular",
+    "origin": "Political metaphor from 1800s."
+  },
+  {
+    "idiom": "Barking up the wrong tree",
+    "meaning": "Pursuing a false lead or mistaken belief",
+    "example": "If you think I did it, you're barking up the wrong tree.",
+    "related_idiom": "Miss the mark",
+    "difficulty_level": "Medium",
+    "category": "Popular",
+    "origin": "From hunting dogs barking at empty trees."
+  },
+  {
+    "idiom": "Kick the bucket",
+    "meaning": "To die",
+    "example": "He kicked the bucket at age 90.",
+    "related_idiom": "Pass away",
+    "difficulty_level": "Medium",
+    "category": "Popular",
+    "origin": "Possibly from hanging or slaughter practices."
+  },
+  {
+    "idiom": "Piece of cake",
+    "meaning": "Something very easy to do",
+    "example": "That test was a piece of cake.",
+    "related_idiom": "Walk in the park",
+    "difficulty_level": "Easy",
+    "category": "Popular",
+    "origin": "20th-century American slang."
+  },
+  {
+    "idiom": "A dime a dozen",
+    "meaning": "Very common and of little value",
+    "example": "Cheap plastic toys are a dime a dozen.",
+    "related_idiom": "Common as dirt",
+    "difficulty_level": "Medium",
+    "category": "Popular",
+    "origin": "U.S. 1800s (cheap goods)."
+  },
+  {
+    "idiom": "Pull someone's leg",
+    "meaning": "Joke or tease someone playfully",
+    "example": "Don't worry — I'm just pulling your leg.",
+    "related_idiom": "Wind someone up",
+    "difficulty_level": "Easy",
+    "category": "Popular",
+    "origin": "Possibly old thieves' slang."
+  },
+  {
+    "idiom": "Back to the drawing board",
+    "meaning": "Start again after a failure",
+    "example": "The plan didn't work — back to the drawing board.",
+    "related_idiom": "Try again",
+    "difficulty_level": "Medium",
+    "category": "Popular",
+    "origin": "WWII engineering jargon."
+  },
+  {
+    "idiom": "Break a leg",
+    "meaning": "Wish someone good luck (especially before a performance)",
+    "example": "Break a leg before your audition!",
+    "related_idiom": "Best of luck",
+    "difficulty_level": "Easy",
+    "category": "Popular",
+    "origin": "Theater superstition (opposite to avoid jinx)."
+  },
+  {
+    "idiom": "Beat around the bush",
+    "meaning": "Avoid saying something directly",
+    "example": "Stop beating around the bush and tell me the truth.",
+    "related_idiom": "Avoid the point",
+    "difficulty_level": "Medium",
+    "category": "Popular",
+    "origin": "Hunting metaphor (flushing birds)."
+  },
+  {
+    "idiom": "Cold Feet",
+    "meaning": "Nervousness before a big decision or event",
+    "example": "She got cold feet before the wedding.",
+    "related_idiom": "Second thoughts",
+    "difficulty_level": "Medium",
+    "category": "Popular",
+    "origin": "Possibly from military desertions."
+  },
+  {
+    "idiom": "In hot water",
+    "meaning": "In trouble",
+    "example": "He found himself in hot water after missing the deadline.",
+    "related_idiom": "On the spot",
+    "difficulty_level": "Medium",
+    "category": "Popular",
+    "origin": "From ancient punishments or risky situations."
+  },
+  {
+    "idiom": "Spill the beans",
+    "meaning": "Reveal secret information",
+    "example": "He spilled the beans about the merger.",
+    "related_idiom": "Let the cat out of the bag",
+    "difficulty_level": "Easy",
+    "category": "Popular",
+    "origin": "Possibly from voting systems in Ancient Greece."
+  },
+  {
+    "idiom": "Hit the road",
+    "meaning": "To leave or begin a journey",
+    "example": "We need to hit the road early tomorrow.",
+    "related_idiom": "Get going",
+    "difficulty_level": "Easy",
+    "category": "Popular",
+    "origin": "American travel slang."
+  },
+  {
+    "idiom": "Go the extra mile",
+    "meaning": "Do more than what is expected",
+    "example": "She always goes the extra mile for her customers.",
+    "related_idiom": "Above and beyond",
+    "difficulty_level": "Easy",
+    "category": "Popular",
+    "origin": "Biblical origin (Roman law)."
+  },
+  {
+    "idiom": "Cut corners",
+    "meaning": "Do something cheaply or carelessly",
+    "example": "They cut corners when building the house.",
+    "related_idiom": "Take shortcuts",
+    "difficulty_level": "Medium",
+    "category": "Popular",
+    "origin": "From racing or construction."
+  },
+  {
+    "idiom": "Ace a test",
+    "meaning": "To achieve a perfect or very high score on a test or exam",
+    "example": "She studied for weeks and managed to ace her final exam.",
+    "related_idiom": "Score perfectly",
+    "difficulty_level": "Easy",
+    "category": "Education",
+    "origin": "From the ace card, representing excellence"
+  },
+  {
+    "idiom": "Hit the books",
+    "meaning": "To study hard",
+    "example": "I have a big exam tomorrow, so I need to hit the books tonight.",
+    "related_idiom": "Study diligently",
+    "difficulty_level": "Easy",
+    "category": "Education",
+    "origin": "From literally opening and studying books"
+  },
+  {
+    "idiom": "Learn by heart",
+    "meaning": "To memorize something perfectly",
+    "example": "Students were required to learn the poem by heart for the recitation.",
+    "related_idiom": "Memorize",
+    "difficulty_level": "Easy",
+    "category": "Education",
+    "origin": "From knowing something so well it's ingrained in one's memory"
+  },
+  {
+    "idiom": "Pass with flying colors",
+    "meaning": "To succeed easily and exceptionally well (in an exam, project, etc.)",
+    "example": "She studied diligently and passed her final exam with flying colors.",
+    "related_idiom": "Excel",
+    "difficulty_level": "Easy",
+    "category": "Education",
+    "origin": "From flags being raised to show success"
+  },
+  {
+    "idiom": "Pull an all-nighter",
+    "meaning": "To stay up all night studying or working on a project",
+    "example": "I had to pull an all-nighter to finish my research paper before the deadline.",
+    "related_idiom": "Study all night",
+    "difficulty_level": "Easy",
+    "category": "Education",
+    "origin": "From staying up for an entire night"
+  },
+  {
+    "idiom": "Teacher's pet",
+    "meaning": "A student who is favored by the teacher",
+    "example": "He always sat in the front row and answered every question, earning him the title of teacher's pet.",
+    "related_idiom": "Favorite student",
+    "difficulty_level": "Easy",
+    "category": "Education",
+    "origin": "From a student receiving preferential treatment from a teacher"
+  },
+  {
+    "idiom": "Food for thought",
+    "meaning": "Something that makes one think seriously; interesting information to consider",
+    "example": "The professor's lecture on artificial intelligence gave us a lot of food for thought.",
+    "related_idiom": "Something to consider",
+    "difficulty_level": "Easy",
+    "category": "Education",
+    "origin": "From providing mental nourishment"
+  },
+  {
+    "idiom": "Get a head start",
+    "meaning": "To begin something before others; to gain an advantage by starting early",
+    "example": "She got a head start on her research project over the summer.",
+    "related_idiom": "Start early",
+    "difficulty_level": "Easy",
+    "category": "Education",
+    "origin": "From beginning before others in a race"
+  },
+  {
+    "idiom": "Three R's",
+    "meaning": "Refers to the basic skills of reading, writing, and arithmetic (traditionally taught in elementary school)",
+    "example": "Modern education emphasizes more than just the three R's.",
+    "related_idiom": "Basic skills",
+    "difficulty_level": "Easy",
+    "category": "Education",
+    "origin": "Abbreviation for Reading, 'Riting, 'Rithmetic"
+  },
+  {
+    "idiom": "A quick study",
+    "meaning": "Someone who learns new things quickly and easily",
+    "example": "The new intern is a quick study; she picked up all the procedures in just a few days.",
+    "related_idiom": "Fast learner",
+    "difficulty_level": "Easy",
+    "category": "Education",
+    "origin": "Describes someone who learns rapidly"
+  },
+  {
+    "idiom": "Every cloud has a silver lining",
+    "meaning": "Every difficult or unpleasant situation has some hidden advantage or good aspect.",
+    "example": "Losing that job was tough, but it led me to a better opportunity, proving every cloud has a silver lining.",
+    "related_idiom": "Hope in adversity",
+    "difficulty_level": "Medium",
+    "category": "General",
+    "origin": "From the appearance of clouds with the sun behind them"
+  },
+  {
+    "idiom": "Raining cats and dogs",
+    "meaning": "Raining very heavily.",
+    "example": "I can't go out now; it's raining cats and dogs!",
+    "related_idiom": "Pouring",
+    "difficulty_level": "Easy",
+    "category": "General",
+    "origin": "Unclear origin, possibly from old Norse mythology or slang"
+  },
+  {
+    "idiom": "Not rocket science",
+    "meaning": "Not difficult to understand or do.",
+    "example": "Learning to use this software is not rocket science; anyone can do it.",
+    "related_idiom": "Simple",
+    "difficulty_level": "Easy",
+    "category": "General",
+    "origin": "Rocket science is considered a very complex field"
+  },
+  {
+    "idiom": "Like two peas in a pod",
+    "meaning": "Very similar in appearance, behavior, or interests.",
+    "example": "My brother and I are like two peas in a pod; we enjoy all the same hobbies.",
+    "related_idiom": "Identical",
+    "difficulty_level": "Easy",
+    "category": "General",
+    "origin": "From the appearance of peas in a single pod"
+  },
+  {
+    "idiom": "Blink of an eye",
+    "meaning": "A very short period of time; almost instantly.",
+    "example": "The magician made the card disappear in the blink of an eye.",
+    "related_idiom": "Instantly",
+    "difficulty_level": "Easy",
+    "category": "General",
+    "origin": "From the quick movement of an eyelid"
+  },
+  {
+    "idiom": "The cat's pajamas",
+    "meaning": "Excellent; superb; wonderful (an older, somewhat humorous idiom).",
+    "example": "Her new dress is absolutely the cat's pajamas!",
+    "related_idiom": "Excellent",
+    "difficulty_level": "Medium",
+    "category": "General",
+    "origin": "From early 20th-century American slang, indicating something fashionable and desirable"
+  },
+  {
+    "idiom": "All thumbs",
+    "meaning": "Clumsy or awkward with one's hands.",
+    "example": "I'm all thumbs when it comes to needlework; I can never thread the needle.",
+    "related_idiom": "Clumsy",
+    "difficulty_level": "Easy",
+    "category": "General",
+    "origin": "From the idea of having only thumbs, which are not dexterous for fine work"
+  },
+  {
+    "idiom": "A baker's dozen",
+    "meaning": "Thirteen.",
+    "example": "I ordered a dozen donuts, but they gave me a baker's dozen.",
+    "related_idiom": "Thirteen",
+    "difficulty_level": "Easy",
+    "category": "General",
+    "origin": "Bakers historically added an extra item to a dozen to avoid being accused of shortchanging customers"
+  },
+  {
+    "idiom": "Blind as a bat",
+    "meaning": "Having very poor eyesight.",
+    "example": "Without my glasses, I'm as blind as a bat.",
+    "related_idiom": "Poor vision",
+    "difficulty_level": "Easy",
+    "category": "General",
+    "origin": "Bats are commonly perceived as having poor vision (though they use echolocation)"
+  },
+  {
+    "idiom": "Bite your tongue",
+    "meaning": "To stop yourself from saying something that you want to say, because it would be rude or inappropriate.",
+    "example": "I had to bite my tongue to stop myself from criticizing her idea.",
+    "related_idiom": "Hold your peace",
+    "difficulty_level": "Easy",
+    "category": "General",
+    "origin": "From physically preventing oneself from speaking"
+  },
+  {
+    "idiom": "White elephant",
+    "meaning": "A possession that is useless or troublesome, especially one that is expensive to maintain or difficult to dispose of.",
+    "example": "That old car became a white elephant; it cost more to fix than it was worth.",
+    "related_idiom": "Useless possession",
+    "difficulty_level": "Medium",
+    "category": "General",
+    "origin": "From the historical practice of the King of Siam giving white elephants to those he wished to ruin"
+  },
+  {
+    "idiom": "Have sticky fingers",
+    "meaning": "To be prone to stealing.",
+    "example": "The manager suspected someone in the office had sticky fingers after money went missing.",
+    "related_idiom": "Kleptomaniac",
+    "difficulty_level": "Medium",
+    "category": "General",
+    "origin": "From the idea of things adhering to one's fingers, implying theft"
+  },
+  {
+    "idiom": "Wouldn't harm a fly",
+    "meaning": "Gentle and inoffensive; not aggressive or violent.",
+    "example": "Despite his tough appearance, he wouldn't harm a fly.",
+    "related_idiom": "Harmless",
+    "difficulty_level": "Easy",
+    "category": "General",
+    "origin": "From the idea of not being violent even towards a small, insignificant creature"
+  },
+  {
+    "idiom": "Pardon my French",
+    "meaning": "An apology for using bad language.",
+    "example": "That was a dreadful, pardon my French, screw-up!",
+    "related_idiom": "Excuse my language",
+    "difficulty_level": "Easy",
+    "category": "General",
+    "origin": "A polite way to apologize for using profanity"
+  },
+  {
+    "idiom": "Out of your mind",
+    "meaning": "Crazy; insane; behaving in a very foolish way.",
+    "example": "You want to quit your stable job to travel the world? Are you out of your mind?",
+    "related_idiom": "Crazy",
+    "difficulty_level": "Easy",
+    "category": "General",
+    "origin": "From the idea of losing one's sanity"
+  },
+  {
+    "idiom": "Have a memory like an elephant",
+    "meaning": "To have an excellent memory.",
+    "example": "She never forgets a face; she truly has a memory like an elephant.",
+    "related_idiom": "Good memory",
+    "difficulty_level": "Easy",
+    "category": "General",
+    "origin": "Elephants are known for their strong memory"
+  },
+  {
+    "idiom": "As clear as mud",
+    "meaning": "Not clear at all; very difficult to understand.",
+    "example": "The instructions for assembling the furniture were as clear as mud.",
+    "related_idiom": "Confusing",
+    "difficulty_level": "Easy",
+    "category": "General",
+    "origin": "An ironic phrase, as mud is opaque"
+  },
+  {
+    "idiom": "Take the biscuit",
+    "meaning": "To be the most extreme or astonishing example of something (often used humorously or ironically).",
+    "example": "His excuse for being late really takes the biscuit; he claimed a unicorn blocked the road!",
+    "related_idiom": "Top it all",
+    "difficulty_level": "Medium",
+    "category": "General",
+    "origin": "From competitions where the winner received a cake or biscuit"
+  },
+  {
+    "idiom": "Put your best foot forward",
+    "meaning": "To make the best possible effort; to create the best impression.",
+    "example": "When applying for the scholarship, make sure to put your best foot forward.",
+    "related_idiom": "Do your best",
+    "difficulty_level": "Medium",
+    "category": "General",
+    "origin": "From trying to start something in the best way possible"
+  },
+  {
+    "idiom": "Learn the ropes",
+    "meaning": "To learn the basics of a job or activity",
+    "example": "It took her a few weeks to learn the ropes at her new job.",
+    "related_idiom": "Get the hang of it",
+    "difficulty_level": "Easy",
+    "category": "Education",
+    "origin": "From sailing, where new sailors had to learn how to handle the ropes"
+  },
+  {
+    "idiom": "Bright as a button",
+    "meaning": "Very intelligent or clever",
+    "example": "That student is as bright as a button; she always gets top marks.",
+    "related_idiom": "Sharp as a tack",
+    "difficulty_level": "Easy",
+    "category": "Education",
+    "origin": "Buttons were kept polished and shiny, representing brightness"
+  },
+  {
+    "idiom": "Class act",
+    "meaning": "Someone or something of high quality or impressive",
+    "example": "The new teacher is a real class act; students love her lessons.",
+    "related_idiom": "Top-notch",
+    "difficulty_level": "Medium",
+    "category": "Education",
+    "origin": "From theatrical performances of high quality"
+  },
+  {
+    "idiom": "School of thought",
+    "meaning": "A particular philosophy or way of thinking about something",
+    "example": "There are different schools of thought on how to teach mathematics.",
+    "related_idiom": "Point of view",
+    "difficulty_level": "Medium",
+    "category": "Education",
+    "origin": "From philosophical and academic traditions"
+  },
+  {
+    "idiom": "Burning the candle at both ends",
+    "meaning": "Working excessively hard, exhausting oneself",
+    "example": "She's burning the candle at both ends studying for finals.",
+    "related_idiom": "Working around the clock",
+    "difficulty_level": "Medium",
+    "category": "Education",
+    "origin": "From literally burning a candle from both ends, making it burn faster"
+  },
+  {
+    "idiom": "Rome wasn't built in a day",
+    "meaning": "Complex tasks take time to complete",
+    "example": "Learning a new language is difficult; remember, Rome wasn't built in a day.",
+    "related_idiom": "Patience is a virtue",
+    "difficulty_level": "Easy",
+    "category": "Education",
+    "origin": "Refers to the time it took to build the Roman Empire"
+  },
+  {
+    "idiom": "Knowledge is power",
+    "meaning": "Information and learning give you strength and advantage",
+    "example": "Study hard because knowledge is power in today's world.",
+    "related_idiom": "Information is key",
+    "difficulty_level": "Easy",
+    "category": "Education",
+    "origin": "From Francis Bacon's philosophical writings"
+  },
+  {
+    "idiom": "Think outside the box",
+    "meaning": "To think creatively and unconventionally",
+    "example": "To solve this problem, we need to think outside the box.",
+    "related_idiom": "Be innovative",
+    "difficulty_level": "Medium",
+    "category": "Education",
+    "origin": "From lateral thinking puzzles and creative problem-solving"
+  },
+  {
+    "idiom": "Back to basics",
+    "meaning": "Return to fundamental principles",
+    "example": "When students struggle, sometimes we need to go back to basics.",
+    "related_idiom": "Start from scratch",
+    "difficulty_level": "Easy",
+    "category": "Education",
+    "origin": "From returning to core fundamentals in learning"
+  },
+  {
+    "idiom": "Learning curve",
+    "meaning": "The rate of progress in learning something new",
+    "example": "There's a steep learning curve when starting computer programming.",
+    "related_idiom": "Getting up to speed",
+    "difficulty_level": "Medium",
+    "category": "Education",
+    "origin": "From graphical representation of learning progress over time"
+  },
+  {
+    "idiom": "Break new ground",
+    "meaning": "To do something innovative or pioneering",
+    "example": "This research could break new ground in medical science.",
+    "related_idiom": "Blaze a trail",
+    "difficulty_level": "Medium",
+    "category": "Popular",
+    "origin": "From literally breaking soil for new construction"
+  },
+  {
+    "idiom": "Don't count your chickens before they hatch",
+    "meaning": "Don't assume success before it happens",
+    "example": "I might get the promotion, but I won't count my chickens before they hatch.",
+    "related_idiom": "Don't get ahead of yourself",
+    "difficulty_level": "Medium",
+    "category": "Popular",
+    "origin": "From Aesop's fable about a milkmaid counting future profits"
+  },
+  {
+    "idiom": "The early bird catches the worm",
+    "meaning": "Success comes to those who start early",
+    "example": "I always arrive early to meetings; the early bird catches the worm.",
+    "related_idiom": "First come, first served",
+    "difficulty_level": "Easy",
+    "category": "Popular",
+    "origin": "From the observation that early-rising birds find more food"
+  },
+  {
+    "idiom": "Don't put all your eggs in one basket",
+    "meaning": "Don't risk everything on one venture",
+    "example": "Invest in different stocks; don't put all your eggs in one basket.",
+    "related_idiom": "Diversify your options",
+    "difficulty_level": "Medium",
+    "category": "Popular",
+    "origin": "From the risk of carrying all eggs in one container"
+  },
+  {
+    "idiom": "Actions speak louder than words",
+    "meaning": "What you do is more important than what you say",
+    "example": "He promised to help, but actions speak louder than words.",
+    "related_idiom": "Walk the walk",
+    "difficulty_level": "Easy",
+    "category": "Popular",
+    "origin": "Ancient wisdom about the importance of deeds over promises"
+  }
+]
